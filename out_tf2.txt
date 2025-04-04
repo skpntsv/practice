@@ -1,0 +1,589 @@
+
+2025-04-02 19:59:39
+DATA_DIR: ./dataset/20class/SessionAllLayers
+CLASS_NUM: 20
+MODEL: Original TF2 Reimplementation
+Класс, Имя, Precision, Recall
+0, BitTorrent, 0.7079, 0.2513
+1, Facetime, 0.8267, 0.8350
+2, FTP, 0.8910, 0.7591
+3, Gmail, 0.3988, 0.0800
+4, MySQL, 0.7492, 0.9903
+5, Outlook, 0.3158, 0.7261
+6, Skype, 0.9688, 0.8339
+7, SMB, 0.9487, 0.3507
+8, Weibo, 0.3793, 0.5157
+9, WorldOfWarcraft, 0.8491, 0.9924
+10, Cridex, 0.5592, 0.9878
+11, Geodo, 0.8346, 0.8284
+12, Htbot, 0.8889, 0.1005
+13, Miuref, 1.0000, 0.0370
+14, Neris, 0.5196, 0.7165
+15, Nsis-ay, 0.9151, 0.4794
+16, Shifu, 0.6569, 0.8847
+17, Tinba, 0.7088, 0.8506
+18, Virut, 0.6156, 0.6902
+19, Zeus, 0.8540, 0.8441
+Total accuracy: 0.6521
+Precision (Macro): 0.7294
+Recall (Macro): 0.6377
+F1-Score (Macro): 0.6132
+
+
+2025-04-03 12:05:01
+DATA_DIR: ./dataset/20class/SessionAllLayers
+CLASS_NUM: 20
+MODEL: Original TF2 Reimplementation
+Класс, Имя, Precision, Recall
+0, BitTorrent, 0.8070, 0.4282
+1, Facetime, 0.9731, 0.9050
+2, FTP, 0.9288, 0.9840
+3, Gmail, 0.6762, 0.5180
+4, MySQL, 0.9875, 0.9807
+5, Outlook, 0.3963, 0.6303
+6, Skype, 0.9984, 0.9604
+7, SMB, 0.6992, 0.6904
+8, Weibo, 0.6580, 0.7556
+9, WorldOfWarcraft, 0.9726, 0.9898
+10, Cridex, 0.9678, 0.9878
+11, Geodo, 0.9788, 0.8284
+12, Htbot, 0.8964, 0.7473
+13, Miuref, 0.9429, 0.9649
+14, Neris, 0.7864, 0.7494
+15, Nsis-ay, 0.9508, 0.8600
+16, Shifu, 0.7547, 0.9553
+17, Tinba, 0.9376, 0.9012
+18, Virut, 0.6821, 0.7899
+19, Zeus, 0.9746, 0.9552
+Total accuracy: 0.8254
+Precision (Macro): 0.8485
+Recall (Macro): 0.8291
+F1-Score (Macro): 0.8321
+
+
+2025-04-03 13:06:50
+DATA_DIR: ./dataset/20class/SessionAllLayers
+CLASS_NUM: 20
+MODEL: Original TF2 Reimplementation
+Класс, Имя, Precision, Recall
+0, BitTorrent, 0.8070, 0.4282
+1, Facetime, 0.9731, 0.9050
+2, FTP, 0.9288, 0.9840
+3, Gmail, 0.6762, 0.5180
+4, MySQL, 0.9875, 0.9807
+5, Outlook, 0.3963, 0.6303
+6, Skype, 0.9984, 0.9604
+7, SMB, 0.6992, 0.6904
+8, Weibo, 0.6580, 0.7556
+9, WorldOfWarcraft, 0.9726, 0.9898
+10, Cridex, 0.9678, 0.9878
+11, Geodo, 0.9788, 0.8284
+12, Htbot, 0.8964, 0.7473
+13, Miuref, 0.9429, 0.9649
+14, Neris, 0.7864, 0.7494
+15, Nsis-ay, 0.9508, 0.8600
+16, Shifu, 0.7547, 0.9553
+17, Tinba, 0.9376, 0.9012
+18, Virut, 0.6821, 0.7899
+19, Zeus, 0.9746, 0.9552
+Total accuracy: 0.8254
+Precision (Macro): 0.8485
+Recall (Macro): 0.8291
+F1-Score (Macro): 0.8321
+
+
+2025-04-03 15:39:48
+DATA_DIR: ./dataset/20class/SessionAllLayers
+CLASS_NUM: 20
+MODEL: Original TF2 Reimplementation
+Класс, Имя, Precision, Recall
+0, BitTorrent, 0.9987, 1.0000
+1, Facetime, 1.0000, 1.0000
+2, FTP, 1.0000, 1.0000
+3, Gmail, 0.9954, 0.9988
+4, MySQL, 1.0000, 1.0000
+5, Outlook, 1.0000, 0.9947
+6, Skype, 1.0000, 1.0000
+7, SMB, 1.0000, 1.0000
+8, Weibo, 1.0000, 1.0000
+9, WorldOfWarcraft, 1.0000, 1.0000
+10, Cridex, 1.0000, 1.0000
+11, Geodo, 1.0000, 0.9985
+12, Htbot, 0.9984, 0.9984
+13, Miuref, 1.0000, 1.0000
+14, Neris, 0.9769, 0.9459
+15, Nsis-ay, 0.9967, 0.9951
+16, Shifu, 0.9990, 1.0000
+17, Tinba, 1.0000, 1.0000
+18, Virut, 0.9294, 0.9693
+19, Zeus, 1.0000, 1.0000
+Total accuracy: 0.9947
+Precision (Macro): 0.9947
+Recall (Macro): 0.9950
+F1-Score (Macro): 0.9948
+
+
+2025-04-03 19:11:25
+DATA_DIR: ./dataset/20class/SessionAllLayers
+CLASS_NUM: 20
+MODEL: Original TF2 Reimplementation
+Класс, Имя, Precision, Recall
+0, BitTorrent, 0.8170, 0.8670
+1, Facetime, 1.0000, 0.9883
+2, FTP, 1.0000, 1.0000
+3, Gmail, 0.9479, 0.6118
+4, MySQL, 1.0000, 1.0000
+5, Outlook, 0.7112, 0.9495
+6, Skype, 0.9814, 1.0000
+7, SMB, 0.9422, 0.9795
+8, Weibo, 0.9799, 0.9490
+9, WorldOfWarcraft, 1.0000, 0.9975
+10, Cridex, 0.9976, 0.9927
+11, Geodo, 0.9910, 0.9910
+12, Htbot, 0.9871, 0.9608
+13, Miuref, 0.9753, 1.0000
+14, Neris, 0.9719, 0.6918
+15, Nsis-ay, 0.9779, 0.9456
+16, Shifu, 0.9896, 0.9927
+17, Tinba, 0.9930, 0.9953
+18, Virut, 0.6909, 0.9770
+19, Zeus, 0.9950, 0.9934
+Total accuracy: 0.9375
+Precision (Macro): 0.9474
+Recall (Macro): 0.9441
+F1-Score (Macro): 0.9406
+
+
+2025-04-03 19:12:17
+DATA_DIR: ./dataset/20class/SessionAllLayers
+CLASS_NUM: 20
+MODEL: Original TF2 Reimplementation
+Класс, Имя, Precision, Recall
+0, BitTorrent, 0.8645, 0.8311
+1, Facetime, 1.0000, 0.9700
+2, FTP, 0.9985, 0.9985
+3, Gmail, 0.9563, 0.6083
+4, MySQL, 1.0000, 1.0000
+5, Outlook, 0.6646, 0.9827
+6, Skype, 0.9860, 1.0000
+7, SMB, 0.9491, 0.9716
+8, Weibo, 0.9721, 0.9415
+9, WorldOfWarcraft, 0.9987, 0.9962
+10, Cridex, 1.0000, 0.9903
+11, Geodo, 0.9896, 0.9910
+12, Htbot, 0.9778, 0.9702
+13, Miuref, 0.9716, 1.0000
+14, Neris, 0.9523, 0.7282
+15, Nsis-ay, 0.9947, 0.9275
+16, Shifu, 0.9969, 0.9886
+17, Tinba, 0.9941, 0.9965
+18, Virut, 0.6981, 0.9647
+19, Zeus, 1.0000, 0.9917
+Total accuracy: 0.9364
+Precision (Macro): 0.9482
+Recall (Macro): 0.9424
+F1-Score (Macro): 0.9399
+
+
+2025-04-03 19:13:03
+DATA_DIR: ./dataset/20class/SessionAllLayers
+CLASS_NUM: 20
+MODEL: Original TF2 Reimplementation
+Класс, Имя, Precision, Recall
+0, BitTorrent, 0.8668, 0.8391
+1, Facetime, 1.0000, 0.9933
+2, FTP, 1.0000, 1.0000
+3, Gmail, 0.9152, 0.6628
+4, MySQL, 0.9986, 1.0000
+5, Outlook, 0.7184, 0.9734
+6, Skype, 0.9906, 0.9984
+7, SMB, 0.9802, 0.9384
+8, Weibo, 0.9465, 0.9820
+9, WorldOfWarcraft, 1.0000, 0.9937
+10, Cridex, 1.0000, 0.9927
+11, Geodo, 0.9896, 0.9910
+12, Htbot, 0.9934, 0.9482
+13, Miuref, 0.9625, 1.0000
+14, Neris, 0.8904, 0.8412
+15, Nsis-ay, 0.9764, 0.9539
+16, Shifu, 0.9876, 0.9927
+17, Tinba, 0.9907, 0.9988
+18, Virut, 0.7953, 0.8758
+19, Zeus, 0.9983, 0.9934
+Total accuracy: 0.9443
+Precision (Macro): 0.9500
+Recall (Macro): 0.9484
+F1-Score (Macro): 0.9470
+
+
+2025-04-03 19:20:29
+DATA_DIR: ./dataset/20class/SessionAllLayers
+CLASS_NUM: 20
+MODEL: Original TF2 Reimplementation
+Класс, Имя, Precision, Recall
+0, BitTorrent, 0.8073, 0.8577
+1, Facetime, 1.0000, 0.9933
+2, FTP, 1.0000, 0.9971
+3, Gmail, 0.8669, 0.7092
+4, MySQL, 1.0000, 1.0000
+5, Outlook, 0.7968, 0.9229
+6, Skype, 0.9875, 0.9984
+7, SMB, 0.9679, 0.9526
+8, Weibo, 0.9625, 0.9610
+9, WorldOfWarcraft, 0.9987, 0.9962
+10, Cridex, 0.9988, 0.9927
+11, Geodo, 0.9866, 0.9925
+12, Htbot, 0.9857, 0.9717
+13, Miuref, 0.9922, 0.9961
+14, Neris, 0.9001, 0.7953
+15, Nsis-ay, 0.9930, 0.9292
+16, Shifu, 0.9876, 0.9927
+17, Tinba, 0.9918, 0.9953
+18, Virut, 0.7390, 0.9034
+19, Zeus, 1.0000, 0.9934
+Total accuracy: 0.9434
+Precision (Macro): 0.9481
+Recall (Macro): 0.9475
+F1-Score (Macro): 0.9465
+
+
+2025-04-03 19:24:09
+DATA_DIR: ./dataset/20class/SessionAllLayers
+CLASS_NUM: 20
+MODEL: Original TF2 Reimplementation
+Класс, Имя, Precision, Recall
+0, BitTorrent, 0.7735, 0.9402
+1, Facetime, 1.0000, 0.9900
+2, FTP, 1.0000, 1.0000
+3, Gmail, 0.9447, 0.6338
+4, MySQL, 0.9986, 1.0000
+5, Outlook, 0.7866, 0.9362
+6, Skype, 0.9952, 0.9937
+7, SMB, 0.9724, 0.9479
+8, Weibo, 0.9538, 0.9595
+9, WorldOfWarcraft, 1.0000, 0.9987
+10, Cridex, 1.0000, 0.9915
+11, Geodo, 0.9940, 0.9910
+12, Htbot, 0.9772, 0.9435
+13, Miuref, 0.9535, 1.0000
+14, Neris, 0.9426, 0.7529
+15, Nsis-ay, 0.9930, 0.9292
+16, Shifu, 0.9896, 0.9907
+17, Tinba, 0.9930, 0.9965
+18, Virut, 0.7194, 0.9555
+19, Zeus, 1.0000, 0.9934
+Total accuracy: 0.9420
+Precision (Macro): 0.9494
+Recall (Macro): 0.9472
+F1-Score (Macro): 0.9446
+
+
+2025-04-03 19:30:09
+DATA_DIR: ./dataset/20class/SessionAllLayers
+CLASS_NUM: 20
+MODEL: Original TF2 Reimplementation
+Класс, Имя, Precision, Recall
+0, BitTorrent, 0.9418, 0.5811
+1, Facetime, 0.9966, 0.9917
+2, FTP, 1.0000, 1.0000
+3, Gmail, 0.7381, 0.7903
+4, MySQL, 0.9986, 1.0000
+5, Outlook, 0.7217, 0.9481
+6, Skype, 0.9813, 0.9984
+7, SMB, 0.9798, 0.9194
+8, Weibo, 0.9362, 0.9685
+9, WorldOfWarcraft, 1.0000, 0.9987
+10, Cridex, 1.0000, 0.9927
+11, Geodo, 0.9896, 0.9910
+12, Htbot, 0.9837, 0.9482
+13, Miuref, 0.9588, 0.9981
+14, Neris, 0.7757, 0.8788
+15, Nsis-ay, 0.9947, 0.9275
+16, Shifu, 0.9907, 0.9927
+17, Tinba, 0.9907, 0.9976
+18, Virut, 0.7966, 0.7086
+19, Zeus, 0.9967, 0.9934
+Total accuracy: 0.9292
+Precision (Macro): 0.9386
+Recall (Macro): 0.9312
+F1-Score (Macro): 0.9315
+
+
+2025-04-03 19:40:39
+DATA_DIR: ./dataset/20class/SessionAllLayers
+CLASS_NUM: 20
+MODEL: Original TF2 Reimplementation
+Класс, Имя, Precision, Recall
+0, BitTorrent, 1.0000, 0.9987
+1, Facetime, 1.0000, 1.0000
+2, FTP, 1.0000, 1.0000
+3, Gmail, 0.9951, 0.9455
+4, MySQL, 1.0000, 1.0000
+5, Outlook, 0.9466, 0.9907
+6, Skype, 0.9860, 1.0000
+7, SMB, 0.9984, 0.9842
+8, Weibo, 0.9852, 1.0000
+9, WorldOfWarcraft, 1.0000, 0.9987
+10, Cridex, 1.0000, 1.0000
+11, Geodo, 1.0000, 0.9970
+12, Htbot, 0.9969, 0.9953
+13, Miuref, 0.9942, 1.0000
+14, Neris, 0.9355, 0.8706
+15, Nsis-ay, 0.9901, 0.9868
+16, Shifu, 0.9979, 0.9938
+17, Tinba, 0.9965, 1.0000
+18, Virut, 0.8417, 0.9218
+19, Zeus, 1.0000, 1.0000
+Total accuracy: 0.9828
+Precision (Macro): 0.9832
+Recall (Macro): 0.9842
+F1-Score (Macro): 0.9835
+
+
+2025-04-04 08:41:50
+DATA_DIR: ./dataset/20class/SessionAllLayers
+CLASS_NUM: 20
+MODEL: Original TF2 Reimplementation
+Класс, Имя, Precision, Recall
+0, BitTorrent, 0.0000, 0.0000
+1, Facetime, 0.2504, 0.7900
+2, FTP, 0.0043, 0.0087
+3, Gmail, 0.0498, 0.0290
+4, MySQL, 0.0000, 0.0000
+5, Outlook, 0.0507, 0.0559
+6, Skype, 0.0000, 0.0000
+7, SMB, 0.0000, 0.0000
+8, Weibo, 0.0761, 0.9415
+9, WorldOfWarcraft, 1.0000, 0.1256
+10, Cridex, 0.0000, 0.0000
+11, Geodo, 0.0000, 0.0000
+12, Htbot, 0.0000, 0.0000
+13, Miuref, 0.0000, 0.0000
+14, Neris, 0.0812, 0.0718
+15, Nsis-ay, 0.0000, 0.0000
+16, Shifu, 0.5372, 0.2098
+17, Tinba, 0.0000, 0.0000
+18, Virut, 0.0000, 0.0000
+19, Zeus, 0.0000, 0.0000
+Total accuracy: 0.1077
+Precision (Macro): 0.1025
+Recall (Macro): 0.1116
+F1-Score (Macro): 0.0609
+
+
+2025-04-04 08:56:34
+DATA_DIR: ./dataset/20class/SessionAllLayers
+CLASS_NUM: 20
+MODEL: Original TF2 Reimplementation
+Класс, Имя, Precision, Recall
+0, BitTorrent, 0.9934, 1.0000
+1, Facetime, 1.0000, 1.0000
+2, FTP, 1.0000, 1.0000
+3, Gmail, 0.9880, 0.9525
+4, MySQL, 1.0000, 1.0000
+5, Outlook, 0.9524, 0.9854
+6, Skype, 0.9984, 1.0000
+7, SMB, 0.9984, 0.9968
+8, Weibo, 0.9970, 0.9985
+9, WorldOfWarcraft, 1.0000, 0.9987
+10, Cridex, 1.0000, 1.0000
+11, Geodo, 1.0000, 0.9955
+12, Htbot, 0.9953, 0.9937
+13, Miuref, 0.9981, 1.0000
+14, Neris, 0.9629, 0.8235
+15, Nsis-ay, 0.9950, 0.9819
+16, Shifu, 0.9969, 0.9958
+17, Tinba, 0.9953, 0.9988
+18, Virut, 0.8010, 0.9632
+19, Zeus, 1.0000, 1.0000
+Total accuracy: 0.9823
+Precision (Macro): 0.9836
+Recall (Macro): 0.9842
+F1-Score (Macro): 0.9832
+
+
+2025-04-04 09:01:52
+DATA_DIR: ./dataset/20class/SessionAllLayers
+CLASS_NUM: 20
+MODEL: Original TF2 Reimplementation
+Класс, Имя, Precision, Recall
+0, BitTorrent, 0.9973, 0.9987
+1, Facetime, 1.0000, 1.0000
+2, FTP, 1.0000, 1.0000
+3, Gmail, 0.9856, 0.9490
+4, MySQL, 1.0000, 1.0000
+5, Outlook, 0.9512, 0.9840
+6, Skype, 0.9906, 1.0000
+7, SMB, 1.0000, 0.9984
+8, Weibo, 0.9985, 1.0000
+9, WorldOfWarcraft, 1.0000, 0.9987
+10, Cridex, 1.0000, 1.0000
+11, Geodo, 1.0000, 0.9985
+12, Htbot, 0.9953, 0.9969
+13, Miuref, 0.9942, 1.0000
+14, Neris, 0.8843, 0.8988
+15, Nsis-ay, 0.9884, 0.9852
+16, Shifu, 0.9990, 0.9927
+17, Tinba, 0.9988, 1.0000
+18, Virut, 0.8678, 0.8558
+19, Zeus, 1.0000, 0.9983
+Total accuracy: 0.9818
+Precision (Macro): 0.9825
+Recall (Macro): 0.9828
+F1-Score (Macro): 0.9826
+
+
+2025-04-04 09:10:12
+DATA_DIR: ./dataset/20class/SessionAllLayers
+CLASS_NUM: 20
+MODEL: Original TF2 Reimplementation
+Класс, Имя, Precision, Recall
+0, BitTorrent, 0.7812, 0.9162
+1, Facetime, 0.9983, 0.9967
+2, FTP, 1.0000, 0.9985
+3, Gmail, 0.8999, 0.6976
+4, MySQL, 1.0000, 1.0000
+5, Outlook, 0.8416, 0.8976
+6, Skype, 0.9814, 1.0000
+7, SMB, 0.9849, 0.9273
+8, Weibo, 0.9335, 0.9895
+9, WorldOfWarcraft, 0.9987, 0.9949
+10, Cridex, 1.0000, 0.9915
+11, Geodo, 0.9911, 0.9940
+12, Htbot, 0.9853, 0.9451
+13, Miuref, 0.9553, 1.0000
+14, Neris, 0.8841, 0.8259
+15, Nsis-ay, 0.9360, 0.9638
+16, Shifu, 0.9917, 0.9917
+17, Tinba, 0.9918, 0.9976
+18, Virut, 0.8060, 0.8604
+19, Zeus, 0.9934, 0.9934
+Total accuracy: 0.9452
+Precision (Macro): 0.9477
+Recall (Macro): 0.9491
+F1-Score (Macro): 0.9472
+
+
+2025-04-04 09:17:04
+DATA_DIR: ./dataset/20class/SessionAllLayers
+CLASS_NUM: 20
+MODEL: Original TF2 Reimplementation
+Класс, Имя, Precision, Recall
+0, BitTorrent, 0.9668, 0.5426
+1, Facetime, 0.9983, 0.9933
+2, FTP, 1.0000, 1.0000
+3, Gmail, 0.7803, 0.7451
+4, MySQL, 1.0000, 1.0000
+5, Outlook, 0.6571, 0.9787
+6, Skype, 0.9829, 0.9984
+7, SMB, 0.9770, 0.9415
+8, Weibo, 0.9488, 0.9730
+9, WorldOfWarcraft, 1.0000, 0.9949
+10, Cridex, 1.0000, 0.9915
+11, Geodo, 0.9896, 0.9910
+12, Htbot, 0.9642, 0.9717
+13, Miuref, 0.9827, 0.9961
+14, Neris, 0.8098, 0.8718
+15, Nsis-ay, 0.9843, 0.9325
+16, Shifu, 0.9958, 0.9834
+17, Tinba, 0.9895, 0.9976
+18, Virut, 0.8128, 0.7791
+19, Zeus, 0.9983, 0.9934
+Total accuracy: 0.9304
+Precision (Macro): 0.9419
+Recall (Macro): 0.9338
+F1-Score (Macro): 0.9331
+
+
+2025-04-04 09:37:50
+DATA_DIR: ./dataset/20class/SessionAllLayers
+CLASS_NUM: 20
+MODEL: Original TF2 Reimplementation
+Класс, Имя, Precision, Recall
+0, BitTorrent, 0.7765, 0.9335
+1, Facetime, 1.0000, 0.9850
+2, FTP, 1.0000, 1.0000
+3, Gmail, 0.9770, 0.5910
+4, MySQL, 1.0000, 1.0000
+5, Outlook, 0.7697, 0.9601
+6, Skype, 0.9814, 1.0000
+7, SMB, 0.9965, 0.9036
+8, Weibo, 0.9147, 0.9970
+9, WorldOfWarcraft, 1.0000, 0.9962
+10, Cridex, 1.0000, 0.9915
+11, Geodo, 0.9910, 0.9910
+12, Htbot, 0.9791, 0.9560
+13, Miuref, 0.9589, 1.0000
+14, Neris, 0.7812, 0.9071
+15, Nsis-ay, 0.9863, 0.9473
+16, Shifu, 0.9948, 0.9886
+17, Tinba, 0.9918, 0.9976
+18, Virut, 0.8315, 0.6963
+19, Zeus, 1.0000, 0.9934
+Total accuracy: 0.9387
+Precision (Macro): 0.9465
+Recall (Macro): 0.9418
+F1-Score (Macro): 0.9401
+
+
+2025-04-04 09:38:33
+DATA_DIR: ./dataset/20class/SessionAllLayers
+CLASS_NUM: 20
+MODEL: Original TF2 Reimplementation
+Класс, Имя, Precision, Recall
+0, BitTorrent, 0.7740, 0.9202
+1, Facetime, 1.0000, 0.9917
+2, FTP, 1.0000, 0.9971
+3, Gmail, 0.9156, 0.6790
+4, MySQL, 0.9986, 1.0000
+5, Outlook, 0.8351, 0.9295
+6, Skype, 0.9875, 0.9968
+7, SMB, 0.9966, 0.9336
+8, Weibo, 0.9419, 0.9970
+9, WorldOfWarcraft, 0.9975, 0.9937
+10, Cridex, 1.0000, 0.9927
+11, Geodo, 0.9779, 0.9910
+12, Htbot, 0.9811, 0.9796
+13, Miuref, 0.9902, 0.9883
+14, Neris, 0.8986, 0.8129
+15, Nsis-ay, 0.9930, 0.9292
+16, Shifu, 0.9958, 0.9917
+17, Tinba, 0.9941, 0.9965
+18, Virut, 0.7548, 0.8972
+19, Zeus, 0.9967, 0.9934
+Total accuracy: 0.9465
+Precision (Macro): 0.9515
+Recall (Macro): 0.9506
+F1-Score (Macro): 0.9491
+
+
+2025-04-04 09:39:45
+DATA_DIR: ./dataset/20class/SessionAllLayers
+CLASS_NUM: 20
+MODEL: Original TF2 Reimplementation
+Класс, Имя, Precision, Recall
+0, BitTorrent, 0.9266, 0.5878
+1, Facetime, 1.0000, 0.9833
+2, FTP, 1.0000, 1.0000
+3, Gmail, 0.6492, 0.8899
+4, MySQL, 1.0000, 1.0000
+5, Outlook, 0.8494, 0.7952
+6, Skype, 0.9814, 1.0000
+7, SMB, 0.9834, 0.9384
+8, Weibo, 0.9427, 0.9865
+9, WorldOfWarcraft, 1.0000, 0.9962
+10, Cridex, 1.0000, 0.9927
+11, Geodo, 0.9955, 0.9910
+12, Htbot, 0.9748, 0.9717
+13, Miuref, 0.9790, 1.0000
+14, Neris, 0.7992, 0.9035
+15, Nsis-ay, 0.9845, 0.9407
+16, Shifu, 0.9948, 0.9907
+17, Tinba, 0.9930, 0.9965
+18, Virut, 0.8362, 0.7362
+19, Zeus, 0.9983, 0.9934
+Total accuracy: 0.9330
+Precision (Macro): 0.9444
+Recall (Macro): 0.9347
+F1-Score (Macro): 0.9363
+
